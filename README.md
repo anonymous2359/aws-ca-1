@@ -25,5 +25,6 @@ Build a basic fitness website that presents workout plans, fitness programs, mem
 2. Keep all files in the same directory.
 3. Open index.html in any modern web browser.
 
-
+## Deployed Website Link - 
+Live Website: https://aws-ca-1.vercel.app
 
